@@ -40,13 +40,13 @@ A collection of links of projects, profiles and tools discussed in the workshop
 
 ## Links for understanding Arweave (Concepts and doubts discussed in the event).
 
-- [How permanent data storage works](https://twitter.com/ropats16/status/1666794734860529664?s=20).
+- [How permanent data storage works](https://twitter.com/ropats16/status/1666794734860529664?s=20)?
 
-- [What makes Arweave's decentralized data so different](https://twitter.com/DMacOnArweave/status/1657083277914820608?s=20). 
+- [What makes Arweave's decentralized data so different](https://twitter.com/DMacOnArweave/status/1657083277914820608?s=20)?
 
 - [Some use cases of Arweave](https://twitter.com/ropats16/status/1671925191910510592?s=20).
 
-- [How Arweave's mining mechanism works](https://twitter.com/CommunityLabs/status/1674138791647531008?s=20).
+- [How Arweave's mining mechanism works](https://twitter.com/CommunityLabs/status/1674138791647531008?s=20)?
 
 - [Arweave pricing and cost of storage over time](https://twitter.com/DMacOnArweave/status/1660360779835805697?s=20).
 
@@ -57,7 +57,7 @@ A collection of links of projects, profiles and tools discussed in the workshop
 ## Accounts to follow (Twitter accounts of protocols discussed in the event).
 
 - [Arweave Eco](https://twitter.com/ArweaveEco): The first truly permanent information storage network, backed by a sustainable endowment.
-- [Only Arweave](https://twitter.com/onlyarweave): Made these workshops possible for us. They are conduct Arweave related events all over the world and regularly share updates regarding the ecosystem.
+- [Only Arweave](https://twitter.com/onlyarweave): Made these workshops possible for us. They conduct Arweave related events all over the world and regularly share updates regarding the ecosystem.
 - [Community Labs](https://twitter.com/CommunityLabs): A software development company and venture studio building in the Arweave ecosystem.
 - [Forward Research](https://twitter.com/fwdresearch): A leading research and development incubator for Arweave, building the foundations of the permaweb.
 - [ArConnect](https://twitter.com/arconnectio): Secure wallet management for Arweave.
