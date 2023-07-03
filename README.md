@@ -36,6 +36,8 @@ A collection of links of projects, profiles and tools discussed in the workshop
   
 - [Web3Infra](https://web3infra.dev/docs/arseeding/introduction/lightNode/) has more information on running a light node if you do not want to make a capital investment to get started with mining.
 
+- [ArweaveHub](https://community.g8way.io/#/) is the place to find events happening within the Arweave ecosystem.
+
 ## Links for understanding Arweave (Concepts and doubts discussed in the event).
 
 - [How permanent data storage works](https://twitter.com/ropats16/status/1666794734860529664?s=20).
