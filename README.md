@@ -1,5 +1,5 @@
-# Arweave-India-July-2023
-A collection of links of projects, profiles and tools discussed in the workshop
+# Arweave-Resources
+A collection of links of learning resources, tools, projects and more.
 
 ## Links for understanding Arweave (Concepts and doubts discussed in the event).
 
